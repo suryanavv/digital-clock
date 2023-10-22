@@ -24,7 +24,7 @@ body {
 .col {
     flex: 1;
     padding: 10px;
-    border: 1px solid #000;
+    border: 5px solid #000;
     border-radius: 15px;
     margin: 10px;
     text-align: center;
@@ -39,7 +39,7 @@ body {
 }
 
 .dark-mode .col {
-    border: 1px solid #fff;
+    border: 5px solid #fff;
     background-color: #000000;
     color: #ffffff;
 }
