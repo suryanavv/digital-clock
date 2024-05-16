@@ -1,1 +1,3 @@
-[View in live 🔗 ](https://suryanavv.github.io/digital-clock/)
+# Digital-Clock
+
+[Checkout live 🔗 ](https://suryanavv.github.io/digital-clock/)
